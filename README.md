@@ -69,5 +69,5 @@ Total Addresses:     256
 Usable Hosts:        254
 Usable Host Range:   192.168.1.1 - 192.168.1.254
 
-## Author
-## Sagib Ul Sadab
+Author
+Sagib Ul Sadab
